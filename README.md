@@ -41,4 +41,4 @@ Welcome to the Library Management System project! This system is designed to eff
 - Before issuing a new book, check the return status of the student to ensure they have returned the previous book.
 
 
-Feel free to explore the various features of the Library Management System to enhance the efficiency of your library operations. If you encounter any issues or have questions, refer to the documentation or contact the system administrator for assistance.
+Feel free to explore the various features of the Library Management System to enhance the efficiency of your library operations. If you encounter any issues or have questions open an issue.
